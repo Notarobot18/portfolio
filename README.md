@@ -1,7 +1,6 @@
-<!DOCTYPE html>
 <html>
 <head>
-    <title>Aarushi Jain - Resume</title>
+    <title>Anubhav Bakshi - Resume</title>
 </head>
 <body>
 
