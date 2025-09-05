@@ -5,10 +5,10 @@
 </head>
 <body>
 
-    <h2>Name: Aarushi Jain</h2>
+    <h2>Name: Anubhav Bakshi</h2>
 
-    <p>Email: aarushijainhzb@gmail.com</p>
-    <p>Phone: 9708315715</p>
+    <p>Email: anubhavbaksh20@gmail.com</p>
+    <p>Phone: 9155724022</p>
 
     <h3>Summary</h3>
     <p>I am a BCA student interested in web development. I want to learn and improve my coding skills.</p>
@@ -16,7 +16,7 @@
     <h3>Education</h3>
     <ul>
         <li>BCA — Bennett University — 2025–28</li>
-        <li>High School — Naman Vidya — 2024</li>
+        <li>High School — Litera Valley school — 2024</li>
     </ul>
 
     <h3>Skills</h3>
